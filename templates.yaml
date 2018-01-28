@@ -1,0 +1,9 @@
+welcome: Welcome to the Doctor Who game. Ready?
+
+round: Can you tell me which number doctor, {{ doctor }} was?
+
+win: Nice work!
+
+lose: Sorry, that's the wrong answer. {{ doctor_name }} was doctor {{ number }}. You said doctor {{ answer }}
+
+goodbye: See you later
